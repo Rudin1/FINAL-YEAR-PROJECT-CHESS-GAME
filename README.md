@@ -1,8 +1,9 @@
-# *** NOTE: this is NOT my final version of the project!
+# FINAL PROJECT: Chess game with Minimax algorithm
 
-Although the application works fine, its NOT my final version of the Chess game. i mistakenly deleted the last updated version of the game, when i was deleting old code files and directories :(
-This version was made couple of days before the finished version. it lacks some features like sounds, additional graphics, code, optimization... 
-but still got the main important functions and features to run the application.
+      *** NOTE: this is NOT my final version of the project!
+      Although the application works fine, its NOT my final version of the Chess game. i mistakenly deleted the last updated version of the game, when i was deleting old code files and directories :(
+      This version was made couple of days before the finished version. it lacks some features like sounds, additional graphics, code, optimization... 
+      but still got the main important functions and features to run the application.
 
 Features:
   1. Play vs AI: 3 levels, the hardest level is depth of 3 (depth tree for minimax search). the AI based on Minimax Search with Alpha-Beta Pruning.
