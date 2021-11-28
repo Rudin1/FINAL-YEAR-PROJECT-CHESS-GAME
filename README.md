@@ -1,7 +1,7 @@
 # ***NOTE: this is NOT my final version of the project!
 
 Although the application works fine, its NOT my final version of the Chess game. i mistakenly deleted the last updated version of the game, when i was deleting old code files and directories :(
-This version was made couple of days before the last one. it lacks some features like sounds,additional graphics,code,optimization... but still got the main important functions and features.
+This version was made couple of days before the last one. it lacks some features like sounds, additional graphics, code, optimization... but still got the main important functions and features.
 
 Features:
   1. Play vs AI or against human on the same computer or via LAN.
