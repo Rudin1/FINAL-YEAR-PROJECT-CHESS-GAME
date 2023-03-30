@@ -1,4 +1,4 @@
-# FINAL PROJECT: Chess game with Minimax algorithm
+# FINAL PROJECT: Chess game with Negamax algorithm
 
 Features:
   1. Play vs AI: 3 levels, the hardest level is depth of 3 (depth tree for minimax search). the AI based on Minimax Search with Alpha-Beta Pruning.
