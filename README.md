@@ -24,3 +24,16 @@ ORD_cDqJTPe4ng](https://user-images.githubusercontent.com/95120906/232309101-320
 ![WINWORD_Lr6fkX5D19](https://user-images.githubusercontent.com/95120906/232309227-2041d73e-3ff2-4a3e-a492-ed196bcb44cd.png)
 ![WINWORD_DUk4wcooFG](https://user-images.githubusercontent.com/95120906/232309238-7a21d63f-0d87-4d1d-a930-727872d3bcfe.png)
 ![WINWORD_3uDXz4pf9W](https://user-images.githubusercontent.com/95120906/232309248-c1a1108c-f97a-4660-85e8-e005c401c4e9.png)
+
+Snippets from the game:
+MAIN PAGE:
+
+![main](https://user-images.githubusercontent.com/95120906/143781378-4c7e50ff-e099-46ab-bc7e-62093d768527.png)
+
+The 3 levels in AI:
+
+![AI](https://user-images.githubusercontent.com/95120906/143781019-a445340f-37d4-4feb-8c85-6500acb25852.png)
+
+Running game:
+
+![inside](https://user-images.githubusercontent.com/95120906/143781172-de82a3fc-63b3-4329-acc6-178a2ce57c06.png)
